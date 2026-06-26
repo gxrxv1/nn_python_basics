@@ -1,2 +1,3 @@
-Some Basic Neural Net Concepts Example Codes That Helping Me To Understand Neural Nets.
+Some basic neural net concepts example codes that are helping me to understand Neural Nets better.
+
 I am Dumb tbh......
